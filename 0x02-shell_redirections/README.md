@@ -1,1 +1,1 @@
-In this repo, it will contain all tasks regarding 0-hello_world project.
+In this repo, it will contain all tasks regarding0x02. Shell, I/O Redirections and filters.
